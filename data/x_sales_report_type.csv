@@ -1,0 +1,13 @@
+id,x_active,x_studio_sequence,x_name,x_studio_report_code
+sales_report_type_daily_sales_summary,1,10,Daily Sales Summary,Daily Sales Summary
+sales_report_type_sales_details_for_insentive_calculation,1,10,Sales Details for Insentive Calculation,Sales Details for Incentive Calc.
+sales_report_type_production_overview_wip,1,10,Production Overview - WIP,Production Overview - WIP
+sales_report_type_customer_aging_report,1,10,Customer Aging Report,Customer Aging Report
+sales_report_type_slow_moving_items,1,10,Slow Moving Items,Slow Moving Items
+sales_report_type_sales_production_purchase_report,1,10,Sales - Production - Purchase Report,Sales - Production - Purchase Report
+sales_report_type_production_summary_split,1,10,Production Summary - Split,Production Summary - Split
+sales_report_type_production_job_variance,1,10,Production Job Variance,Production Job Variance
+sales_report_type_casting_melt,1,10,Casting Melt,Casting Melt
+sales_report_type_import_transactions,1,10,Import Transactions,Import Transaction
+sales_report_type_project_gross_margin,1,10,Project Gross Margin,Project Gross Margin
+sales_report_type_costing_work_sheet,1,10,Costing Work Sheet,Costing Work Sheet
