@@ -1,3 +1,3 @@
 id,x_studio_last_purchase_price_validity_days,x_studio_active,x_name,x_active,x_studio_sequence,x_studio_minimum_sales_margin_,x_studio_company_id/id,x_studio_sales_order_validity,x_studio_advance_payment_
 minimum_sales_margin_sales_configurations,30,1,Sales Configurations,1,10,35.0,base.main_company,1,50.0
-minimum_sales_margin_sales_configurations_36,30,1,Sales Configurations,1,0,20.0,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,1,50.0
+minimum_sales_margin_sales_configurations_36,30,1,Sales Configurations,1,0,20.0,,1,50.0
