@@ -14,10 +14,8 @@
         'Jinasena_MasterData_Stock',
     ],
     'data': [
-        'data/crm.team.csv',
         'data/product.pricelist.csv',
         'data/product.pricelist.item.csv',
-        'data/x_customer_group.csv',
         'data/x_minimum_sales_margin.csv',
         'data/x_sales_report_type.csv',
     ],
