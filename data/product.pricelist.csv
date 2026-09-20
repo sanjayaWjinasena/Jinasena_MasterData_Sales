@@ -1,3 +1,3 @@
 id,name,active,sequence,currency_id/id,company_id/id,discount_policy,x_studio_group_type,x_studio_project_price_list,x_studio_order_payment_method
-product_pricelist_jam_general_pricelist,JAM General Pricelist,1,16,base.LKR,,with_discount,General,,Cash
+product_pricelist_jam_general_pricelist,JAM General Pricelist,1,16,base.LKR,seed_master_data_and_settings.company_jinasena_agricultural_machinery,with_discount,General,,Cash
 product_pricelist_jinasena_projects_pricelist_jld,Jinasena - Projects Pricelist - JLD,1,16,base.LKR,base.main_company,with_discount,General,1,Cash
