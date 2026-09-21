@@ -15,7 +15,6 @@
     ],
     'data': [
         'data/product.pricelist.csv',
-        'data/product.pricelist.item.csv',
         'data/x_minimum_sales_margin.csv',
         'data/x_sales_report_type.csv',
     ],
