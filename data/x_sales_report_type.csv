@@ -1,4 +1,4 @@
-id,x_active,x_studio_sequence,x_name,x_studio_report_code
+id,active,sequence,name,x_studio_report_code
 sales_report_type_daily_sales_summary,1,10,Daily Sales Summary,Daily Sales Summary
 sales_report_type_sales_details_for_insentive_calculation,1,10,Sales Details for Insentive Calculation,Sales Details for Incentive Calc.
 sales_report_type_production_overview_wip,1,10,Production Overview - WIP,Production Overview - WIP
